@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  org.example.config.HelloServiceAutoConfiguration,\
+  org.example.config.MyLogAutoConfiguration
